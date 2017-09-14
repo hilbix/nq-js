@@ -1,3 +1,5 @@
+> Not in an usable state yet
+
 # NQ.js
 
 JavaScript library for the `NQ` (read: eNQueue) framework.  It pollutes the global scope with the `NQ` name.
